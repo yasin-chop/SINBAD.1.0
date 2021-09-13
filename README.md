@@ -1,4 +1,4 @@
-# SINBAD.2.0: A pipeline for processing SINgle cell Bisulfite sequencing samples and Analysis of Data
+# SINBAD.1.0: A pipeline for processing SINgle cell Bisulfite sequencing samples and Analysis of Data
 
 SINBAD is an R package for processing single cell DNA methylation data. It accepts fastq files as input, performs demultiplexing, adapter trimmming, mapping, quantification, dimensionality reduction and differential methylation analysis for single cell DNA methylation datasets.
 
